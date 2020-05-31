@@ -1,0 +1,28 @@
+.info-img {
+	border: 1px solid black;
+	width: 80%;
+	padding: 30px;
+}
+
+.info-table {
+	margin: 0 auto;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+.info-table td {
+	border: 1px solid black;
+	padding: 0 15px 0;
+}	
+
+.info_inner {
+	border: 1px solid black;
+	width: 220px;
+	text-align: center;
+	padding: 10px 0;
+	position: fixed;
+}
+
+.capitalize {
+	text-transform: capitalize;
+}
